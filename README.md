@@ -1,5 +1,8 @@
+```
 bundle install --path vendor/bundler --jobs 20
 bundle exec rails s
+```
+
 http://localhost:3000/?a=1&b=2
 
 ```
